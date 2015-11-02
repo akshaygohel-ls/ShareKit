@@ -173,8 +173,6 @@
 		7AA83C43170637CC009C483A /* ENAFURLConnectionOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 7AA83C41170637CC009C483A /* ENAFURLConnectionOperation.m */; };
 		7AA83C4817063828009C483A /* ENGCOAuth.h in Headers */ = {isa = PBXBuildFile; fileRef = 7AA83C4417063828009C483A /* ENGCOAuth.h */; };
 		7AA83C4917063828009C483A /* ENGCOAuth.m in Sources */ = {isa = PBXBuildFile; fileRef = 7AA83C4517063828009C483A /* ENGCOAuth.m */; };
-		7AA83C4A17063828009C483A /* NSData+ENBase64.h in Headers */ = {isa = PBXBuildFile; fileRef = 7AA83C4617063828009C483A /* NSData+ENBase64.h */; };
-		7AA83C4B17063828009C483A /* NSData+ENBase64.m in Sources */ = {isa = PBXBuildFile; fileRef = 7AA83C4717063828009C483A /* NSData+ENBase64.m */; };
 		7AA83C4E1706386E009C483A /* ENConstants.h in Headers */ = {isa = PBXBuildFile; fileRef = 7AA83C4C1706386D009C483A /* ENConstants.h */; };
 		7AA83C4F1706386E009C483A /* ENConstants.m in Sources */ = {isa = PBXBuildFile; fileRef = 7AA83C4D1706386E009C483A /* ENConstants.m */; };
 		7AA83C53170638EF009C483A /* EDAMNoteStoreClient+Utilities.h in Headers */ = {isa = PBXBuildFile; fileRef = 7AA83C51170638EF009C483A /* EDAMNoteStoreClient+Utilities.h */; };
@@ -3082,7 +3080,6 @@
 				7A85B52817FA1E6F00C86E77 /* ENXMLUtils.h in Headers */,
 				7AA83C42170637CC009C483A /* ENAFURLConnectionOperation.h in Headers */,
 				7AA83C4817063828009C483A /* ENGCOAuth.h in Headers */,
-				7AA83C4A17063828009C483A /* NSData+ENBase64.h in Headers */,
 				7A85B52B17FA1E6F00C86E77 /* NSRegularExpression+ENAGRegex.h in Headers */,
 				7A85B52617FA1E6F00C86E77 /* ENXMLDTD.h in Headers */,
 				7A85B52E17FA1E6F00C86E77 /* NSString+EDAMNilAdditions.h in Headers */,
@@ -4627,7 +4624,6 @@
 				7A85B52717FA1E6F00C86E77 /* ENXMLDTD.m in Sources */,
 				7AA83C4917063828009C483A /* ENGCOAuth.m in Sources */,
 				7A85B52317FA1E6F00C86E77 /* ENMIMEUtils.m in Sources */,
-				7AA83C4B17063828009C483A /* NSData+ENBase64.m in Sources */,
 				7A85B52D17FA1E6F00C86E77 /* NSString+EDAMAdditions.m in Sources */,
 				7AA83C4F1706386E009C483A /* ENConstants.m in Sources */,
 				7AA83C54170638EF009C483A /* EDAMNoteStoreClient+Utilities.m in Sources */,
